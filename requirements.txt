@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+mlflow
+joblib
+fastapi
+uvicorn
+pytest
+pydantic
+python-multipart
+prometheus-client
