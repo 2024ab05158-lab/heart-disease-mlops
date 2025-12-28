@@ -1,6 +1,6 @@
 pandas
-numpy
-scikit-learn
+numpy==1.21.6
+scikit-learn==1.0.2
 matplotlib
 seaborn
 mlflow
@@ -8,6 +8,8 @@ joblib
 fastapi
 uvicorn
 pytest
+pytest-cov
 pydantic
 python-multipart
 prometheus-client
+httpx
